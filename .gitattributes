@@ -3,4 +3,3 @@
 *.PrjPcb linguist-detectable
 *.SchLib linguist-detectable
 *.PcbLib linguist-detectable
-*.htm linguist-language=AltiumDesigner
