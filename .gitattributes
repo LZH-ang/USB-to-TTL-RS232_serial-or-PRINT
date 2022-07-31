@@ -1,2 +1,1 @@
-*.PcbDoc linguist-detectable
-*.SchDoc linguist-detectable
+*.HTML linguist-language=Altium Designer
