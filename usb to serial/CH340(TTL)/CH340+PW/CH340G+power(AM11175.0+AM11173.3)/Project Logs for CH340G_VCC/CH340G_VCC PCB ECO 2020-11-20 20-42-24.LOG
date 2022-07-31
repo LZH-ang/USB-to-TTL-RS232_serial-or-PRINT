@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=VCCIN Pin=U1-2
+Removed Pin From Net: NetName=VCCIN Pin=U1-2
+Removed Pin From Net: NetName=VCC3V3 Pin=U1-3
+Removed Pin From Net: NetName=BAT Pin=U3-2
+Removed Pin From Net: NetName=BAT Pin=U3-2
+Removed Pin From Net: NetName=VCC5V Pin=U3-3
+Change Component Comment : Designator=U1 Old Comment=MD5333(SOT-89) New Comment=AMS1117(SOT-89)
+Change Component Comment : Designator=U3 Old Comment=MD5350(SOT-89) New Comment=AMS11175.0(SOT-89)
+Change Component Library : Designator=U1 Old Library=Schlib1.SchLib New Library=CH340G_VCC.SCHLIB
+Change Component Library : Designator=U3 Old Library=Schlib1.SchLib New Library=CH340G_VCC.SCHLIB
+Change component parameters: Designator = "U1"; Footprint = "SOT_89_QB"; UniqueID = "\KFFVWVGY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "明达微"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNo"; Value = "11001090038"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "AMS1117_3.3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U3"; Footprint = "SOT_89_QB"; UniqueID = "\JMDRQBUJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "明达微"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNo"; Value = "11001090038"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "AMS1117_5.0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC3V3 Pin=U1-2
+Added Pin To Net: NetName=VCC3V3 Pin=U1-2
+Added Pin To Net: NetName=VCCIN Pin=U1-3
+Added Pin To Net: NetName=VCC5V Pin=U3-2
+Added Pin To Net: NetName=VCC5V Pin=U3-2
+Added Pin To Net: NetName=BAT Pin=U3-3
+Added Room: Name=CH340G_VCC

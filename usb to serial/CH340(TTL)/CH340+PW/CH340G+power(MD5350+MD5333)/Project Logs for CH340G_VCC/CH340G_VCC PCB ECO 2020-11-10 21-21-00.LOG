@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=VCC3V3 Pin=P3-5
+Added Pin To Net: NetName=VCC3V3 Pin=P3-6
+Added Pin To Net: NetName=VCC3V3 Pin=P3-7
+Added Room: Name=CH340G_VCC

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=TXD Pin=P1-3
+Removed Pin From Net: NetName=RXD Pin=P1-4
+Change Component Library : Designator=P1 Old Library=Schlib1.SchLib New Library=CH340G_VCC.SCHLIB
+Change Component Library : Designator=P3 Old Library=Schlib1.SchLib New Library=CH340G_VCC.SCHLIB
+Added Pin To Net: NetName=VCCUSB Pin=P1-3
+Added Pin To Net: NetName=VCCUSB Pin=P1-4
+Added Pin To Net: NetName=GND Pin=P1-5
+Added Pin To Net: NetName=TXD Pin=P1-6
+Added Pin To Net: NetName=RXD Pin=P1-7
+Added Room: Name=CH340G_VCC
