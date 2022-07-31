@@ -1,5 +1,2 @@
 *.PcbDoc linguist-detectable
 *.SchDoc linguist-detectable
-*.AltiumDesigner linguist-detectable
-*.PcbDoc linguist-language=AltiumDesigner
-*.SchDoc linguist-language=AltiumDesigner
